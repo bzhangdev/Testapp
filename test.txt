@@ -3,6 +3,8 @@
 
 
 
-The first change in test.txt
 
-The second change....
+The first change in test.txt
+The second change...
+.
+The third  change in test.txt
